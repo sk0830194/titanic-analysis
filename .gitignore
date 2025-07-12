@@ -1,0 +1,12 @@
+# 仮想環境フォルダ
+.venv/
+
+# 生データ（CSV）
+*.csv
+
+# Jupyter が勝手に作るチェックポイント
+.ipynb_checkpoints/
+
+# OS が作るゴミ（任意）
+Thumbs.db
+.DS_Store
